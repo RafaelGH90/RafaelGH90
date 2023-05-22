@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1,canal 2 El Salvador
 http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/171075
 #EXTINF:-1,canal 4 El Salvador
