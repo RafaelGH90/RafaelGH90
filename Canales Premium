@@ -147,20 +147,20 @@ http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/181236
 http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/181237 
 #EXTINF:-1,ESPN 3 México 
 http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/181238 
-#EXTINF:-1,Fox Sport Argentina
-http://hplay.xyz:80/Jaqueline/12345/34641
-#EXTINF:-1,Fox Sport 2 Argentina
-http://hplay.xyz:80/Jaqueline/12345/34644
-#EXTINF:-1,Fox Sport 3 Argentina
-http://hplay.xyz:80/Jaqueline/12345/34647
-#EXTINF:-1,Fox Sport Colombia
-http://hplay.xyz:80/Jaqueline/12345/34632
-#EXTINF:-1,Fox Sport 2 Colombia
-http://hplay.xyz:80/Jaqueline/12345/34635
-#EXTINF:-1,Fox Sport 3 Colombia
-http://hplay.xyz:80/Jaqueline/12345/34638
+#EXTINF:-1,Fox Sport Sur
+http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/241182
+#EXTINF:-1,Fox Sport 2 Sur
+http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/241154 
+#EXTINF:-1,Fox Sport 3 Sur
+http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/241140 
+#EXTINF:-1,Fox Sport Mexico 
+http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/257154 
+#EXTINF:-1,Fox Sport 2 México 
+http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/257161 
+#EXTINF:-1,Fox Sport 3 México 
+http://23.227.144.98:8080/AgustinMartinez/XXRh9NpKsDnk/257166?token=SBsLAkBfFwwTVAdXV1UABgACAgoGBlIAA1VQUVtQVAQEWFIGAwQBDwdEGxRFFUMHVFg5WwdGWwcEUQIED09EQUBcETxaUxcME1cPBAdRB1oXGURGCgkEFwtXBQoMUl4MBwpWTxFHXFITXBUAD1EAQBkXA0oXARNbUApsVlwVD1dWG1kNRltZGhMJWWlSBFwDW1FECEFUQxkTD0BCG1kIQV9VT0FRXkFEUBJSFAxDA1cEBkQeQQcOQF8SQUsbWURnZRtPQVZPQVNfFV5ZWEMLQEFGRB5BDRJqQwNARksGB1lWS0FZEQcXGhMLVk5pAl4MW1AFRgoLD0YTXBEBG09EWVxXChdcRWpGWAIVDBRQBVsBAERP 
 #EXTINF:-1,Fox Sport Premium 
-http://hplay.xyz:80/Jaqueline/12345/304554
+http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/257168 
 #EXTINF:-1,TUDN USA 
 http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/170330 
 #EXTINF:-1,TUDN MX 
@@ -172,7 +172,7 @@ http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/222078
 #EXTINF:-1,Sky Sport Premier League
 http://livetvstream.one:8080/4uc/NufVr75zfjwM/257180
 #EXTINF:-1,Sky Sport Bundes
-http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/221520
+http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/221520 
 #EXTINF:-1,Danz La Liga 1
 http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/222697
 #EXTINF:-1,Dazn La Liga 2
@@ -181,17 +181,6 @@ http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/222706
 http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/169935
 #EXTINF:-1,Movistar Liga de Campeones
 http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/169937
-#EXTINF:-1,DirecTV Argentina 
-http://hplay.xyz:80/Jaqueline/12345/123872
-#EXTINF:-1,DirecTV 2 Argentina
-http://hplay.xyz:80/Jaqueline/12345/34612
-#EXTINF:-1,DirecTV Colombia
-http://hplay.xyz:80/Jaqueline/12345/43430
-#EXTINF:-1,DirecTV 2 Colombia
-http://hplay.xyz:80/Jaqueline/12345/43431
-#EXTINF:-1,DirecTV Chile
-http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/176616
-#EXTINF:-1,DirecTV Chile 2
-http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/184447
 #EXTINF:-1,Bein Sport Ñ
 http://tv.dominiotv.xyz:25461/live/Rita123/Rita123/48958.ts
+
