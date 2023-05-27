@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" ,Canal 2 El Salvador 
 http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/171075
-#EXTINF:-1,canal 4 El Salvador
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1200px-Canal_4_TCS.png" ,canal 4 El Salvador
 http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/171083
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeHjDyOPQv5V7Sxcu9cOH7xsw5IaX8420C-Srmz0XZLg&s" ,canal 6 El Salvador
 http://51.222.47.134:8080/AgustinMartinez/XXRh9NpKsDnk/171076
