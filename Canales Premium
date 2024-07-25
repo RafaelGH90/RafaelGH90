@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="Locales" ,Canal 2 El Salvador 
-http://51.222.47.134:8080/andres123/andres123/171075
+http://playlis4.online:8080/play/exPpUnki5FvxPpJuPtSYhd5MMZshd-SEXZD4E6Hdu7y1ECTyj8jAvdhDxsVhgpCb/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1200px-Canal_4_TCS.png" group-title="Locales" ,canal 4 El Salvador
-http://home-playtv.com:8080/VILLANUEVAMANUEL/tyRVUHzFwW/37816
+http://playlis4.online:8080/play/exPpUnki5FvxPpJuPtSYhd5MMZshd-SEXZD4E6Hdu7z7eqWDceGrCjY05MnjnTXF/ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeHjDyOPQv5V7Sxcu9cOH7xsw5IaX8420C-Srmz0XZLg&s" group-title="Locales" ,canal 6 El Salvador
 http://home-playtv.com:8080/VILLANUEVAMANUEL/tyRVUHzFwW/72325
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DvCGCtUUYAA_cT8.jpg:large" group-title="Locales" ,canal 10 El Salvador 
